@@ -1,6 +1,6 @@
 # Andrej Karpathy's Neural Networks Lectures - Notebooks
 
-This repository is a collection of Jupyter notebooks that are designed to closely follow Andrej Karpathy's "Neural Networks: Zero to Hero" lectures on YouTube. Alongside the primary content of the lectures, these notebooks offer added insights and notes on PyTorch, neural networks, the transformer architecture, and more.
+This repository is a collection of Jupyter notebooks that closely follow Andrej Karpathy's "Neural Networks: Zero to Hero" lectures on YouTube. Alongside the primary content of the lectures, these notebooks offer added insights and notes on PyTorch, neural networks, the transformer architecture, and more.
 
 You can find the notebooks directly within this repository or open them in Google Colab via the provided links.
 
