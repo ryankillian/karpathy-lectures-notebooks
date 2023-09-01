@@ -32,7 +32,7 @@ You can find the notebooks directly within this repository or open them in Googl
 **Building makemore Part 3: Activations & Gradients, BatchNorm**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=P6sfmUTpUmc)
-- [Open in Colab](link to my colab here)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1juQy8L6gBxgHjP5nL8p4P9C0SIrOYKci?usp=sharing)
 
 ### Lecture 5:
 
