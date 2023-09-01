@@ -46,7 +46,7 @@ You can find the notebooks directly within this repository or open them in Googl
 **Building makemore Part 5: Building a WaveNet**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
-- [Open in Colab](link to my colab here)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RDP0EzBZRGm-yT5SSYO42QagZrmNDLXJ?usp=sharing)
 
 ### Lecture 7:
 
