@@ -11,7 +11,8 @@ You can find the notebooks directly within this repository or open them in Googl
 **The spelled-out intro to neural networks and backpropagation: building micrograd**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
-- [Open in Colab](link to my colab here)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNZHptdphzZ8BzlYdaRX2IylzONCo3sH?usp=sharing) Part 1
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rBHNN8qIrCGVIKMilnD-rFmKfMX_PRXa?usp=sharing) Part 2
 
 ### Lecture 2:
 
