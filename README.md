@@ -18,7 +18,7 @@ You can find the notebooks directly within this repository or open them in Googl
 **The spelled-out intro to language modeling: building makemore**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=PaCmpygFfXo)
-- [Open in Colab](link to my colab here)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lxg8oGpjyPew-XNxIrbiKV6inXViHsW3?usp=sharing)
 
 ### Lecture 3:
 
