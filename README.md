@@ -25,7 +25,7 @@ You can find the notebooks directly within this repository or open them in Googl
 **Building makemore Part 2: MLP**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=TCH_1BHY58I)
-- [Open in Colab](link to my colab here)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1et9dveI0yxyfjQcQIwc4ww5sTHYPQX9H?usp=sharing)
 
 ### Lecture 4:
 
