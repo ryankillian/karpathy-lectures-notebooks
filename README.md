@@ -55,3 +55,10 @@ You can find the notebooks directly within this repository or open them in Googl
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C-tKfkBFae0uLwwgf6tz6YVa9QyOlQ3N?usp=sharing)
+
+### Lecture 8:
+
+**Let's build the GPT Tokenizer.**
+
+- [Watch on YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zoChlBxqCoFhhzU7LgSB5B35epXbNabO?usp=sharing)
