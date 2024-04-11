@@ -54,7 +54,8 @@ You can find the notebooks directly within this repository or open them in Googl
 **Let's build GPT: from scratch, in code, spelled out.**
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C-tKfkBFae0uLwwgf6tz6YVa9QyOlQ3N?usp=sharing)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C-tKfkBFae0uLwwgf6tz6YVa9QyOlQ3N?usp=sharing) (first time I worked through this tutorial)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10GUohZx-AKpMDrFOgxnGO471vCIAUKNS?usp=sharing) (second time)
 
 ### Lecture 8:
 
