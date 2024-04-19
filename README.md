@@ -56,6 +56,7 @@ You can find the notebooks directly within this repository or open them in Googl
 - [Watch on YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C-tKfkBFae0uLwwgf6tz6YVa9QyOlQ3N?usp=sharing) (first time I worked through this tutorial)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10GUohZx-AKpMDrFOgxnGO471vCIAUKNS?usp=sharing) (second time)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wmDk5q_OatuitE9TeEK2A1FzWPESIA2P?usp=sharing) (third time)
 
 ### Lecture 8:
 
