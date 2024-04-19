@@ -63,3 +63,13 @@ You can find the notebooks directly within this repository or open them in Googl
 
 - [Watch on YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zoChlBxqCoFhhzU7LgSB5B35epXbNabO?usp=sharing)
+
+---
+
+## Workbooks
+
+### Lecture 7:
+
+**Let's build GPT: from scratch, in code, spelled out. (workbook) **
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbL_ZG2rbbFua4nC_8hlrDbKh6UCR7Ru?usp=sharing)
