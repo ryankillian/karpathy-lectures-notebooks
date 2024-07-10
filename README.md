@@ -70,6 +70,12 @@ You can find the notebooks directly within this repository or open them in Googl
 
 ## Workbooks
 
+### Lecture 1:
+
+**Building micrograd: (workbook) **
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvWK6QqOG9io6evGNGiiFOPphJCajDZ1?usp=sharing)
+
 ### Lecture 7:
 
 **Let's build GPT: from scratch, in code, spelled out. (workbook) **
