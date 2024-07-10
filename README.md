@@ -13,6 +13,7 @@ You can find the notebooks directly within this repository or open them in Googl
 - [Watch on YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNZHptdphzZ8BzlYdaRX2IylzONCo3sH?usp=sharing) Part 1
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rBHNN8qIrCGVIKMilnD-rFmKfMX_PRXa?usp=sharing) Part 2
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cLkwbDNcNGoZGDc_7Fepbt3BplCXT21w?usp=sharing) Solutions to micrograd exercises
 
 ### Lecture 2:
 
