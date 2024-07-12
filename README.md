@@ -4,6 +4,8 @@ This repository is a collection of Jupyter notebooks that closely follow Andrej 
 
 You can find the notebooks directly within this repository or open them in Google Colab via the provided links.
 
+**Please note:** Some 'workbooks' are included below, to help you build from scratch.
+
 ## Lectures & Notebooks
 
 ### Lecture 1:
@@ -70,14 +72,24 @@ You can find the notebooks directly within this repository or open them in Googl
 
 ## Workbooks
 
+I like to try to code some of Andrej Karpathy's 'Zero-to-Hero' projects from scratch every now and again.
+
+By following these workbooks, you can regularly practice and internalize the process of building from the ground up.
+
 ### Lecture 1:
 
-**Building micrograd: (workbook) **
+**Building micrograd: (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvWK6QqOG9io6evGNGiiFOPphJCajDZ1?usp=sharing)
 
+### Lecture 2:
+
+**Makemore lecture 1: (workbook)**
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NTUp_m9GgrFInrEhtgaP5z1AfLVhJPfa?usp=sharing)
+
 ### Lecture 7:
 
-**Let's build GPT: from scratch, in code, spelled out. (workbook) **
+**Let's build GPT: from scratch, in code, spelled out. (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbL_ZG2rbbFua4nC_8hlrDbKh6UCR7Ru?usp=sharing)
