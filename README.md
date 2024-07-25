@@ -93,3 +93,11 @@ By following these workbooks, you can regularly practice and internalize the pro
 **Let's build GPT: from scratch, in code, spelled out. (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbL_ZG2rbbFua4nC_8hlrDbKh6UCR7Ru?usp=sharing)
+
+### Lecture 8:
+
+**Tokenizer (workbook)**
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJu6NfTkyJu3CfH6dLf8yYkO3dyieY9N?usp=sharing)
+
+https://colab.research.google.com/drive/1xJu6NfTkyJu3CfH6dLf8yYkO3dyieY9N?usp=sharing
