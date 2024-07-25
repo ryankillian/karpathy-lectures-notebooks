@@ -99,5 +99,3 @@ By following these workbooks, you can regularly practice and internalize the pro
 **Tokenizer (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJu6NfTkyJu3CfH6dLf8yYkO3dyieY9N?usp=sharing)
-
-https://colab.research.google.com/drive/1xJu6NfTkyJu3CfH6dLf8yYkO3dyieY9N?usp=sharing
