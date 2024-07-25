@@ -78,7 +78,7 @@ By following these workbooks, you can regularly practice and internalize the pro
 
 ### Lecture 1:
 
-**Building micrograd: (workbook)**
+**Micrograd: (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvWK6QqOG9io6evGNGiiFOPphJCajDZ1?usp=sharing)
 
@@ -90,12 +90,12 @@ By following these workbooks, you can regularly practice and internalize the pro
 
 ### Lecture 7:
 
-**Let's build GPT: from scratch, in code, spelled out. (workbook)**
+**Let's build GPT: (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbL_ZG2rbbFua4nC_8hlrDbKh6UCR7Ru?usp=sharing)
 
 ### Lecture 8:
 
-**Tokenizer (workbook)**
+**Tokenizer: (workbook)**
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJu6NfTkyJu3CfH6dLf8yYkO3dyieY9N?usp=sharing)
