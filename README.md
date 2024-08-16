@@ -4,7 +4,7 @@ This repository is a collection of Jupyter notebooks that closely follow Andrej 
 
 You can find the notebooks directly within this repository or open them in Google Colab via the provided links.
 
-**Please note:** For those interested in coding these projects entirely from scratch, I have created a separate repository dedicated to detailed workbooks that guide you through the process step-by-step. You can find these workbooks in the new [Karpathy Zero-to-Hero Workbooks repository](https://github.com/ryankillian/karpathy-lectures-workbooks).
+**Please note:** For those interested in coding these projects entirely from scratch, I have created a separate repository dedicated to detailed workbooks that guide you through the process step-by-step. You can find these workbooks in the new [Andrej Karpathy Zero-to-Hero Workbooks repository](https://github.com/ryankillian/karpathy-lectures-workbooks).
 
 ## Lectures & Notebooks
 
